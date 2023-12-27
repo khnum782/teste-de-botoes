@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img alt="" src="">
+  <img alt="" src="./assets/capa.png">
 </p>
 
 <br>
@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-- [Visite o projeto online] (https://64d85ca09435f858f00b5a29--elaborate-dragon-6b1af2.netlify.app/)
+- [Visite o projeto online] (https://khnum782.github.io/teste-de-botoes/)
 
 ## 🔖 Layout
 
